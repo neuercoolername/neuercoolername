@@ -1,6 +1,13 @@
 ### Hi there 👋
 
 
+## My Projects:
+
+
+[Pranklicious](https://pranklicious.netlify.app) An app to create, comment and share detailed pranks with your friends.
+[Berlin Tourist](https://berlin-tourist.cyclic.app/) Berlin Tourist Attractions is an App that helps visitors to Berlin find the greatest places to enjoy their holidays.
+[Catnip Massacre](https://neuercoolername.github.io/catnip-massacre/) Catnip Massacre is a game where you play a cat trying to gather as much Catnip as possible.
+
 ## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
