@@ -1,6 +1,9 @@
 
 ![hello](banner.jpg)
 
+Fine artist turned web developer. I've brought my creativity and attention to detail to the world of web development, creating beautiful and functional websites. As an artist, I also have experience working with innovative technologies like VR and 3D printing. I'm excited to collaborate with other developers and designers to build awesome projects. Let's code together!
+
+
 ## My Projects:
 
 
